@@ -1,0 +1,17 @@
+﻿{
+  "BILLING_ADDRESS": "Adresse de facturation",
+  "ITEM": "article",
+  "ITEMS": "articles",
+  "IN_STORE_PICKUP": "CUEILLETTE EN MAGASIN",
+  "PICKING_UP_AT": "Lieu de cueillette :",
+  "COUNTRY": "Pays",
+  "INTL_STATE_PROVINCE_REGION": "Province\/état\/région",
+  "CHOOSE_A_COUNTRY": "Choisir un pays",
+  "PLEASE_ENTER_EMAIL_PHONE_NUMBER_STORE_PICKUP": "Veuillez entrer une adresse courriel et un numéro de téléphone pour la cueillette en magasin. Vous devrez apporter une pièce d’identité avec photo émise par un gouvernement en plus du courriel contenant votre numéro de commande.",
+  "PHONE_NUMBER": "Numéro de téléphone",
+  "BOPUS_ALTERNATE_PERSON_MESSAGE": "Je veux autoriser une autre personne à ramasser ma commande.",
+  "EDIT_PICKUP_PERSON": "Modifier la personne chargée de la cueillette",
+  "OPT_IN_RECEIVE_EMAIL_MARKETING": "J’accepte que la Compagnie de la Baie d’Hudson m’envoie des courriels contenant des offres et de l’information sur des produits et services susceptibles de m’intéresser, y compris des avis de soldes, d'événements spéciaux et de promotions en magasin. Je peux retirer ce consentement en tout temps en me désinscrivant de la liste d’envoi.",
+  "INVALID_BILLING_ADDRESS_ERROR": "Veuillez entrer une adresse valide pour la facturation.",
+  "SELECT_COUNTRY_ERROR": "Veuillez choisir un pays."
+}

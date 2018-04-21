@@ -1,0 +1,14 @@
+{
+  "ITEMS": "Articles",
+  "INVENTORY_STATUS.IN_STOCK": "En stock",
+  "INVENTORY_STATUS.LIMITED_INVENTORY": "Stock limité",
+  "INVENTORY_STATUS.SOLD_OUT": "Stock épuisé",
+  "INVENTORY_STATUS.SOLD_OUT_STORE": "Stock épuisé à votre magasin",
+  "INVENTORY_STATUS.SHIPS_FROM_VENDOR": "Envoi du fournisseur",
+  "INVENTORY_STATUS.SHIPS_FROM_MULTIPLE_LOCATIONS": "Envois multiples",
+  "INVENTORY_STATUS.SHIPS_FROM_STORE": "Envoi d'un magasin",
+  "INVENTORY_STATUS.IN_MEMBERS_BAG": "Dans le panier du membre",
+  "SELECT_FREE_GIFTS": "Choisissez vos cadeaux!",
+  "SELECT_FREE_GIFTS_NOW": "Choisir maintenant",
+  "OR": "ou"
+}

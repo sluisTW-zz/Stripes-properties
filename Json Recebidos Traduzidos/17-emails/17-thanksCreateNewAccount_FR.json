@@ -1,0 +1,4 @@
+﻿{
+  "EMAIL_USER_REGISTRATION_SUBJECT": "Merci d'avoir créé un compte sur notre site.",
+  "EMAIL_USER_REGISTRATION_BODY_CONTENT": "<p>Bonjour {first_name} {last_name}, <\/p>\\ <p>Nous sommes ravis que vous ayez créé un compte sur notre site. Vous pourrez dorénavant faire des achats en ligne plus facilement et plus rapidement que jamais. <\/p>\\ <p>Vous retrouverez sur notre site le vaste assortiment et le service exceptionnel qui ont fait la réputation de la Compagnie de la Baie d'Hudson. <\/p>\\ <p>L'adresse courriel associée à votre compte est {user_id}. <\/p>\\ <p>Nous espérons que vous profiterez bien de votre tout nouveau compte. Si vous avez des questions, appelez-nous au 1-800-223-7440. <\/p>\\ <p><a href=\"{account_page}\">CLIQUEZ ICI<\/a> pour accéder à votre compte.<\/p>"
+}

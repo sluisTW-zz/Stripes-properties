@@ -1,0 +1,13 @@
+{
+  "account_profile_modal_title": "Edit Profile",
+  "account_profile_first_name": "First Name",
+  "account_profile_last_name": "Last Name",
+  "account_profile_email": "Email",
+  "loyalty_card_number_label": "Hudson\u2019s Bay Rewards Card Number",
+  "first_name_validation_error": "Please enter a valid first name.",
+  "last_name_validation_error": "Please enter a valid last name.",
+  "email_validation_error": "Please enter a valid email.",
+  "account_profile_cancel_link": "Cancel",
+  "account_profile_submit_button": "Submit",
+  "privacy_policy_text": "Privacy Policy"
+}

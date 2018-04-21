@@ -1,0 +1,16 @@
+{
+  "SHIP_ADDRESS_INV_EMAIL": "Veuillez entrer une adresse courriel valide.", 
+  "REGISTERED_CUSTOMERS_MODAL_MESSAGE": "Vous avez déjà un compte labaie.com?", 
+  "WELCOME": "Bienvenue", 
+  "VALIDATE_CSR_LOGIN_MESSAGE2": "L'adresse courriel ou le mot de passe ne correspondent à aucun compte labaie.com.", 
+  "GUESTS_CREATE_ACCOUNT_ALERT_MESSAGE": "Si vous décidez de ne pas créer de compte, vos renseignements personnels ne seront pas enregistrés.", 
+  "REGISTERED_CUSTOMERS_MODAL_TITLE": "Clients inscrits", 
+  "FORGOT_PASSWORD": "Mot de passe oublié?", 
+  "USER_PASSWORD_TITLE": "Mot de passe", 
+  "USER_ID_TITLE": "", 
+  "GUESTS_CREATE_ACCOUNT_MESSAGE": "Vous pourrez créer un compte au moment de passer à la caisse.", 
+  "GUESTS": "Nouveaux clients", 
+  "PLEASE_ENTER_ACCOUNT_PASSWORD": "Veuillez entrer votre mot de passe. Remarque : Les mots de passe sont sensibles à la casse.", 
+  "CHECKOUT_AS_GUEST": "Passer à la caisse", 
+  "SIGN_IN_AND_CHECKOUT": "Ouvrir une session"
+}

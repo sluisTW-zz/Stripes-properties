@@ -1,0 +1,15 @@
+{
+  "SORT_BY": "Sort By",
+  "FEATURED_LABEL": "Featured",
+  "NEW_ARRIVALS_LABEL": "Newest",
+  "NEWEST_MARKDOWN_LABEL": "Newest",
+  "BEST_SELLERS_LABEL": "Best Sellers",
+  "TOP_RATED_LABEL": "Top Rated",
+  "LOW_TO_HIGH_LABEL": "Price: Low to High",
+  "HIGH_TO_LOW_LABEL": "Price: High to Low",
+  "DESIGNERS_A_TO_Z_LABEL": "Designers: A to Z",
+  "BRANDS_A_TO_Z_LABEL": "Brands: A to Z",
+  "CATEGORY_LABEL": "Category",
+  "SALE_FIRST_LABEL": "Sale First",
+  "BEST_MATCH_LABEL": "Best Match"
+}

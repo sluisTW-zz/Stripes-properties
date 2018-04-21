@@ -1,0 +1,14 @@
+{
+  "PAYMENT": "Paiement",
+  "GIFT_WRAP": "Emballage-cadeau",
+  "GIFT_FOR": "Un cadeau pour",
+  "GIFT_CARD": "Carte-cadeau",
+  "GIFT_CARDS": "Cartes-cadeaux",
+  "GIFT_CARD_AMOUNT": "Paiement par carte(s)-cadeau(x)",
+  "GIFT_CARD_NUMBER": "Numéro de carte",
+  "GIFT_CARD_PIN": "NIP",
+  "CREATE_AN_ACCOUNT_TOOLTIP_TITLE": "Avantages d'avoir un compte",
+  "OPTIONAL": "Facultatif",
+  "ESTIMATED_ORDER_LOYALTY_POINTS": "Points Primes La Baie d’Hudson",
+  "ORDER_LOYALTY_POINTS": "Points Primes La Baie d’Hudson"
+}

@@ -1,0 +1,11 @@
+{
+  "account_profile_title": "Your Profile",
+  "account_profile_edit_button_label": "Edit",
+  "email_preferences_title": "Email Preferences",
+  "subscribed_label": "You can edit your email preferences here.",
+  "unsubscribed_label": "You are currently not subscribed to receive any email newsletters.",
+  "email_preferences_edit_link": "Edit",
+  "password_settings_title": "Password Settings",
+  "pwd_setting_password_info": "Make a change to your current password.",
+  "change_password_link": "Change Password"
+}

@@ -1,0 +1,21 @@
+{
+  "account_title": "%s'''s Account",
+  "accountSummary": "Account Summary",
+  "orderHistory": "Order History",
+  "shippingAddressBook": "Shipping Address",
+  "billingAddressBook": "Billing Address",
+  "payment": "Payment",
+  "accountSettings": "Settings",
+  "bridal_profile": "Bridal Profile",
+  "account_profile_title": "Your Profile",
+  "account_profile_edit_button_label": "Edit",
+  "rewards_title": "Become a VIP",
+  "rewards_description": "Hudson''s Bay Rewards VIP",
+  "rewards_apply_for_credit_card_label": "Become a VIP",
+  "rewards_already_a_member_label": "Already a member?",
+  "rewards_pay_your_bill_label": "Go to VIP area",
+  "order_title": "Order History",
+  "order_no_order_message": "You haven'''t placed an order with us!",
+  "order_check_back_message": "Check back after you'''ve ordered to check its status.",
+  "order_start_shopping_button_message": "Start Shopping"
+}

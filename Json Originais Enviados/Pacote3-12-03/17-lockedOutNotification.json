@@ -1,0 +1,6 @@
+{
+  "ACCOUNT_LOCKED_OUT_EMAIL_CONTENT": "<p>Dear {first_name} {last_name}, </p>\\", 
+  "<p>Thank you for visiting Thebay.com. Due to persistent invalid attempts to log in to your account, we have locked the account.</p>\\": "", 
+  "ACCOUNT_LOCKED_OUT_EMAIL_SUBJECT": "For Security, We Have Locked Your Account", 
+  "<p>To regain access, please contact us at 1.800.223.7440 from 7:00am EST \u2013 2:00am EST and a customer service representative will assist you in re-activating your account.</p>": ""
+}

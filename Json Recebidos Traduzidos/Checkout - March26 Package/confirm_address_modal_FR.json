@@ -1,0 +1,11 @@
+{
+  "CONFIRM_ADDRESS": "Confirmer l’adresse",
+  "SUGGESTED_ADDRESS": "Adresse suggérée",
+  "POTENTIAL_MATCHES": "Correspondances trouvées",
+  "ENTER_APT_SUITE_UNIT_NUMBER": "Numéro d'appartement, de bureau ou de local",
+  "ENTER_HOUSE_BUILDING_NUMBER": "Numéro d'immeuble",
+  "NO_MATCHES_FOUND": "Aucune correspondance trouvée",
+  "USE_SUGGESTED_ADDRESS": "Utiliser l’adresse suggérée",
+  "QAS_PREMISES_PARTIAL": "Modifiez ou ajoutez votre numéro d'appartement, de bureau, de local ou d'étage à gauche.",
+  "QAS_STREET_PARTIAL": "Modifiez ou ajoutez votre numéro d'immeuble à gauche."
+}

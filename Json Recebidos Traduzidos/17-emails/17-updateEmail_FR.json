@@ -1,0 +1,4 @@
+﻿{
+  "EMAIL_UPDATE_EMAIL_SUBJECT": "Votre adresse courriel a été modifiée.",
+  "EMAIL_UPDATE_EMAIL_BODY_CONTENT": "<p>Bonjour {first_name} {last_name}, <\/p>\\ <p>Merci de votre visite à labaie.com. Tel que demandé, l'adresse courriel associée à votre compte a été modifiée. <\/p>\\ <p>L'adresse {old_user_id} a été remplacée par {user_id}. <\/p>\\ <p>Si cette demande ne vient pas de vous ou si vous avez des questions à ce sujet, appelez le service à la clientèle au 1-800-223-7440, entre 7 h et 2 h (HE), 7 jours sur 7. <\/p>\\ <p>Pour accéder à votre compte, cliquez sur le lien ci-dessous : <\/p>\\ <p>https:\/\/www.labaie.com\/compte?site_refer=EML5017TRIG_ACCT_NONE_NONE_NONE_0<\/p>" 
+}

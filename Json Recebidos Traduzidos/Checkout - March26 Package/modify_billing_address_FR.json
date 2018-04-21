@@ -1,0 +1,17 @@
+{
+  "ADD_EDIT_BILLING_ADDRESS_TITLE": "Ajouter\/modifier une adresse de facturation",
+  "CONTACT_PHONE_NUMBER": "Numéro de téléphone",
+  "USE_DEFAULT_BILLING_ADDRESS": "Définir comme adresse de facturation par défaut",
+  "TITLE_BILLING_ADDRESS": "Titre",
+  "INTL_STATE_PROVINCE_REGION": "Province\/état\/région",
+  "ADD_TO_SHIPPING_ADRESS_BOOK": "Ajouter au carnet d’adresses d'expédition",
+  "SELECT_AN_EXISTING_ADDRESS": "Choisir une adresse existante",
+  "SELECT_ADDRESS": "Choisir l’adresse",
+  "ENTER_A_NEW_BILLING_ADDRESS": "Entrer une nouvelle adresse de facturation",
+  "ADD_EDIT_SHIPPING_ADDRESS_TITLE": "Ajouter\/modifier une adresse d’expédition",
+  "ENTER_A_NEW_SHIPPING_ADDRESS": "Entrer une nouvelle adresse d’expédition",
+  "TITLE_SHIPPING_ADDRESS": "Titre",
+  "USE_DEFAULT_SHIPPING_ADDRESS": "Définir comme adresse d’expédition par défaut",
+  "ADD_TO_BILLING_ADRESS_BOOK": "Ajouter au carnet d’adresses de facturation",
+  "MAKE_MY_BILLING_ADDRESS": "Faire de cette adresse mon adresse de facturation"
+}

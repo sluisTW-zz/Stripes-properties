@@ -1,0 +1,18 @@
+{
+  "GIFT_CARD_INVALID": "The Card Number or PIN Code you have entered is invalid.",
+  "ENTER_A_GIFT_CARD_NUMBER": "Please enter a card number.",
+  "ENTER_A_VALID_GIFT_CARD_NUMBER": "Please enter a valid card number.",
+  "ENTER_A_PIN_NUMBER": "Please enter a PIN number.",
+  "ENTER_A_VALID_PIN_NUMBER": "Please enter a valid PIN number.",
+  "ACT_MAX_GIFTCARD_ALLOWED": "You have applied the maximum number of gift cards possible for this order. If there is a balance remaining, it will be charged to your credit card.",
+  "ACT_NOT_VALID": "The Card Number or PIN Code you have entered is invalid.",
+  "ACT_ALREADY_USED": "You have already used this gift card as a payment method. Please use a new gift card or continue checkout.",
+  "ACT_GIFT_CARD_ZERO_BALANCE": "The gift card you entered has no available balance. Please enter a new gift card or continue checkout.",
+  "WRONG_CAPTCHA_ERROR": "The text that you entered did not match the image. Please enter the text displayed in the image.",
+  "GIFT_CARD_CHECK_BALANCE_MAX_ATTEMPTS_ERROR": "Sorry, you have exceeded the maximum number of attempts allowed. If you have any questions, please contact customer service at 1.877.551.SAKS (7257).",
+  "VALUE_EMPTY_ERROR": "Value cannot be empty.",
+  "PAYPAL_WITH_GIFT_CARDS_CANNOT_BE_USED": "Gift Cards cannot be used in combination with PayPal, please remove one of these payment methods to continue.",
+  "GIFT_CARD_CAPTCHA_TEXT": "Please enter the text displayed in the image",
+  "GIFT_CARD_BALANCE_RESULT_TEXT": "The balance of the Gift Card that you entered is",
+  "GIFT_CARD_CHECK_ANOTHER": "Check Another Gift Card Balance"
+}

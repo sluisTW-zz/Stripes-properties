@@ -1,0 +1,14 @@
+{
+  "ITEMS": "Items",
+  "INVENTORY_STATUS.IN_STOCK": "In Stock",
+  "INVENTORY_STATUS.LIMITED_INVENTORY": "Limited Inventory",
+  "INVENTORY_STATUS.SOLD_OUT": "Sold Out",
+  "INVENTORY_STATUS.SOLD_OUT_STORE": "Sold Out at your Store",
+  "INVENTORY_STATUS.SHIPS_FROM_VENDOR": "Ships from Vendor",
+  "INVENTORY_STATUS.SHIPS_FROM_MULTIPLE_LOCATIONS": "Ships from multiple locations",
+  "INVENTORY_STATUS.SHIPS_FROM_STORE": "Ships from store",
+  "INVENTORY_STATUS.IN_MEMBERS_BAG": "In Member's Bag",
+  "SELECT_FREE_GIFTS": "Select your free gifts!",
+  "SELECT_FREE_GIFTS_NOW": "Select now",
+  "OR": "or"
+}

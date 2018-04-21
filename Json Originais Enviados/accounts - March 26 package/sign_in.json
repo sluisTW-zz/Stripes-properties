@@ -1,0 +1,21 @@
+{
+  "sign_in_user_title": "Sign Into My Account",
+  "sign_in_user_email_label": "Email",
+  "sign_in_user_password_label": "Password",
+  "sign_in_user_required_field_error_label": "This field is required.",
+  "sign_in_user_invalid_credentials_error_label": "Sorry, this does not match our records. Please try again.",
+  "sign_in_user_button_label": "Sign In",
+  "sign_in_user_forgot_password_label": "Forgot Password",
+  "sign_in_create_account_title": "I'''m New Here",
+  "sign_in_create_account_button_label": "Create Account",
+  "check_order_status_title": "Check Order Status",
+  "order_status_order_number_label": "Order Number",
+  "order_status_zip_code_label": "Billing ZIP/Postal Code",
+  "order_status_button_label": "Submit",
+  "order_status_no_match": "We were not able to find your order. Please check your order number and billing address zip code and try again. If you continue to have problems, please call {0}.",
+  "account_locked_title": "Account Locked",
+  "account_locked_first_message": "Your account has been temporarily locked because the maximum number of invalid logins has been exceeded.",
+  "invalid_sign_in_message": "Sorry, this does not match our records. Please try again.",
+  "wrong_password_message": "We''re sorry, your entry does not match our records. <a href=\"/account/forgot-password\">Forgot Password?</a>",
+  "tries_remaining": "We''re sorry, your entry does not match our records. You have {0} more attempt{1}. <a href=\"/account/forgot-password\">Forgot Password?</a>"
+}

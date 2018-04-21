@@ -1,0 +1,11 @@
+{
+  "pick_up_in_store_zip_code_invalid_msg": "Veuillez entrer un code postal valide.",
+  "pick_up_in_store_zip_code": "Code postal",
+  "pick_up_in_store_tooltip_label": "Magasins près de chez vous",
+  "pick_up_in_store_check_stores_label": "Chercher un magasin",
+  "pick_up_in_store_show_more": "Afficher plus",
+  "pick_up_in_store_store_hours_template": "Ouvert aujourd'hui, de {0}",
+  "pick_up_in_store_store_closed": "Fermé aujourd’hui",
+  "available_for_purchase_in_store_only": "Article disponible à ce magasin",
+  "pick_up_in_store_no_availability_near_you": "Cet article n’est pas disponible dans un magasin près de chez vous."
+}

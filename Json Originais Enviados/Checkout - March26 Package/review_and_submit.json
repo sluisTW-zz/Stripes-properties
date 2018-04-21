@@ -1,0 +1,15 @@
+{
+  "BILLING_ADDRESS": "Billing Address",
+  "PROMO_CODE": "Promo Code",
+  "NO_GIFT_CARDS": "You\u2019ve chosen to not use a gift card for this purchase",
+  "GIFT_CARD_ENDING_IN": "Card ending in",
+  "SHIPPING_ADDRESS": "Shipping address",
+  "SHIP_TO_MULTIPLE_ADDRESSES": "Ship to multiple addresses",
+  "PLACE_ORDER": "Place order",
+  "SHIPPING_HANDLING": "Shipping & Handling",
+  "SHIPPING_METHOD.STANDARD": "Standard Delivery",
+  "SHIPPING_METHOD.SECOND_DAY_AIR": "Rush Delivery",
+  "SHIPPING_METHOD.NEXT_DAY_AIR": "Next Business Day",
+  "SHIPPING_METHOD.SATURDAY_DELIVERY": "Saturday Delivery",
+  "GIFT_WRAP": "Gift Wrap"
+}

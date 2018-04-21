@@ -1,0 +1,18 @@
+{
+  "ACCOUNT_ADVANTAGE_THREE": "Traitement plus rapide des commandes", 
+  "VERIFY_PASSWORD": "Confirmez le mot de passe", 
+  "ORDER_RECEIVED": "Commande reçue", 
+  "PASSWORD_RULE_VALIDATION": "Le mot de passe doit contenir au moins 8 caractères et être composé de lettres majuscules et minuscules, de chiffres et de symboles.", 
+  "BOPUS_THANK_YOU_PAGE_CONFIRMATION_MESSAGE_PART_ONE": "Vous recevrez bientôt un message de confirmation par courriel.", 
+  "NOT_TOO_LATE_CREATE_ACCOUNT_PART_TWO": "pour", 
+  "PASSWORD_DOES_NOT_MATCH": "Les mots de passe ne sont pas identiques.", 
+  "NOT_TOO_LATE_CREATE_ACCOUNT_PART_ONE": "Il n'est pas trop tard pour créer un compte", 
+  "ENDING_IN": "dont le numéro se termine par", 
+  "THANK_YOU": "Merci!", 
+  "ACCOUNT_ADVANTAGE_TWO": "Historique des commandes en ligne", 
+  "PRINT_RECEIPT": "Imprimer le reçu", 
+  "CREATE_PASSWORD": "Créez un mot de passe", 
+  "ORDER": "Commande", 
+  "CREATE_ACCOUNT": "Créer un compte", 
+  "ACCOUNT_ADVANTAGE_ONE": "Processus transactionnel accéléré"
+}

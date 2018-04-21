@@ -1,0 +1,17 @@
+{
+  "ADD_EDIT_BILLING_ADDRESS_TITLE": "Add/Edit Billing Address",
+  "CONTACT_PHONE_NUMBER": "Contact Phone Number",
+  "USE_DEFAULT_BILLING_ADDRESS": "Make This My Default Billing Address",
+  "TITLE_BILLING_ADDRESS": "Title",
+  "INTL_STATE_PROVINCE_REGION": "Intl. State/Province/Region",
+  "ADD_TO_SHIPPING_ADRESS_BOOK": "Add to Shipping Address Book",
+  "SELECT_AN_EXISTING_ADDRESS": "Select an Existing Address",
+  "SELECT_ADDRESS": "Select Address",
+  "ENTER_A_NEW_BILLING_ADDRESS": "Enter a New Billing Address",
+  "ADD_EDIT_SHIPPING_ADDRESS_TITLE": "Add/Edit Shipping Address",
+  "ENTER_A_NEW_SHIPPING_ADDRESS": "Enter a New Shipping Address",
+  "TITLE_SHIPPING_ADDRESS": "Title",
+  "USE_DEFAULT_SHIPPING_ADDRESS": "Make This My Default Shipping Address",
+  "ADD_TO_BILLING_ADRESS_BOOK": "Add to Billing Address Book",
+  "MAKE_MY_BILLING_ADDRESS": "Make This My Billing Address"
+}

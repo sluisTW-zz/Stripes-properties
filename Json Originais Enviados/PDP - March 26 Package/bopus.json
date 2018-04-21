@@ -1,0 +1,11 @@
+{
+  "pick_up_in_store_zip_code_invalid_msg": "Enter a valid zip code",
+  "pick_up_in_store_zip_code": "Zip Code",
+  "pick_up_in_store_tooltip_label": "Stores Near You",
+  "pick_up_in_store_check_stores_label": "Check Stores",
+  "pick_up_in_store_show_more": "Show More",
+  "pick_up_in_store_store_hours_template": "Open {0} Today",
+  "pick_up_in_store_store_closed": "Closed Today",
+  "available_for_purchase_in_store_only": "Available For Purchase In Store",
+  "pick_up_in_store_no_availability_near_you": "This item is not available at a store near you."
+}

@@ -1,0 +1,7 @@
+{
+  "intl_shipping_restricted_link_label": "This item cannot be shipped to {0}",
+  "intl_shipping_restricted_label": "Please note",
+  "color_size_failure_message": "Please select a color and/or size.",
+  "color_label": "Color",
+  "size_main_label": "Size"
+}

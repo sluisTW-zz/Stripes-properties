@@ -1,0 +1,11 @@
+{
+  "CONFIRM_ADDRESS": "Confirm Address",
+  "SUGGESTED_ADDRESS": "Suggested Address",
+  "POTENTIAL_MATCHES": "Potential Matches",
+  "ENTER_APT_SUITE_UNIT_NUMBER": "Enter Apt./Suite/Unit Number",
+  "ENTER_HOUSE_BUILDING_NUMBER": "Enter House/Building Number",
+  "NO_MATCHES_FOUND": "No Matches Found",
+  "USE_SUGGESTED_ADDRESS": "Use Suggested Address",
+  "QAS_PREMISES_PARTIAL": "Edit or enter your Apartment, Suite, Unit or Floor number to the left.",
+  "QAS_STREET_PARTIAL": "Edit or enter your house or building number to the left."
+}

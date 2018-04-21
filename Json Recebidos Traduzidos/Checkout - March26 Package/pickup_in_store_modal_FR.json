@@ -1,0 +1,13 @@
+{
+  "SHIP_IT": "Envoi par la poste",
+  "PICK_UP_IN_STORE": "Cueillette en magasin",
+  "PICK_UP_AT": "Lieu de la cueillette",
+  "SELECT_STORE": "Sélectionner un magasin",
+  "STORE_AVAILABILITY": "Disponibilité en magasin",
+  "CHECK_STORES": "Chercher un magasin",
+  "OPENING_HOURS": "Ouvert aujourd'hui, de {0}",
+  "CLOSED_TODAY": "Fermé aujourd’hui",
+  "BOPUS_SOLD_OUT": "Désolés, cet article n'est plus en stock au magasin sélectionné. Vérifiez les stocks d'un autre magasin ou choisissez l’envoi par la poste.",
+  "NOT_AVAILABLE_AT_STORE_NEAR_YOU": "Cet article n’est pas disponible dans un magasin près de chez vous.",
+  "UPDATE": "Mettre à jour"
+}

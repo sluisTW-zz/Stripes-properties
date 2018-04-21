@@ -1,0 +1,14 @@
+{
+  "details": "Précisions",
+  "shipping_and_returns": "Livraison et retours",
+  "can_not_be_shipped_type": "Cet article ne peut être expédié {0}.",
+  "restricted_ship_type_standard": "par service de livraison standard",
+  "restricted_ship_type_saturday": "le samedi",
+  "restricted_ship_type_rush": "par service de livraison express",
+  "restricted_ship_type_next_business_day": "le jour ouvrable suivant",
+  "gift_wrap_is_not_available": "Remarque : Emballage-cadeau non offert pour cet article.",
+  "usps_ship_ok_msg": "Cet article ne peut être livré à une case postale, à une adresse APO\/FPO (poste militaire\/navale) ni à un territoire américain.",
+  "drop_ship_time_line": "Délai de livraison pour cet article",
+  "most_items_we_ship_returnable_statement": "Nous offrons toujours la LIVRAISON SANS FRAIS pour tout achat de 99 $ ou plus (45 $ ou plus avec le crédit La Baie d'Hudson) ou tout achat beauté de 49 $ ou plus (29 $ ou plus avec le crédit La Baie d'Hudson). Si, pour quelque raison que ce soit, vous n'êtes pas entièrement satisfait de votre achat, vous pouvez obtenir un échange ou un remboursement dans n'importe quel magasin La Baie d'Hudson.",
+  "additional_information": "Renseignements supplémentaires"
+}

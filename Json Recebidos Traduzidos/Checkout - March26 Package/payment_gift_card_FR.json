@@ -1,0 +1,18 @@
+{
+  "GIFT_CARD_INVALID": "Le numéro de carte ou le NIP que vous avez entré n'est pas valide.",
+  "ENTER_A_GIFT_CARD_NUMBER": "Veuillez entrer un numéro de carte.",
+  "ENTER_A_VALID_GIFT_CARD_NUMBER": "Veuillez entrer un numéro de carte valide.",
+  "ENTER_A_PIN_NUMBER": "Veuillez entrer le NIP.",
+  "ENTER_A_VALID_PIN_NUMBER": "Veuillez entrer un NIP valide.",
+  "ACT_MAX_GIFTCARD_ALLOWED": "Vous avez atteint le nombre maximal de cartes-cadeaux pour cette commande. S'il reste un solde à payer, il sera porté à votre carte de crédit.",
+  "ACT_NOT_VALID": "Le numéro de carte ou le NIP que vous avez entré n'est pas valide.",
+  "ACT_ALREADY_USED": "Vous avez déjà utilisé cette carte-cadeau comme mode de paiement. Veuillez entrer une autre carte-cadeau ou poursuivre la transaction.",
+  "ACT_GIFT_CARD_ZERO_BALANCE": "Cette carte-cadeau n'affiche aucun solde. Veuillez entrer une autre carte-cadeau ou poursuivre la transaction.",
+  "WRONG_CAPTCHA_ERROR": "Les caractères que vous avez entrés ne correspondaient pas à l’image. Veuillez entrer les caractères affichés sur l'image.",
+  "GIFT_CARD_CHECK_BALANCE_MAX_ATTEMPTS_ERROR": "Désolés, vous avez dépassé le nombre autorisé de tentatives. Si vous avez des questions, appelez le service à la clientèle au 1-877-551-SAKS (7257).",
+  "VALUE_EMPTY_ERROR": "Ce champ ne doit pas être vide.",
+  "PAYPAL_WITH_GIFT_CARDS_CANNOT_BE_USED": "Il n'est pas possible de combiner des cartes-cadeaux avec PayPal. Veuillez retirer l'un de ces modes de paiement pour continuer.",
+  "GIFT_CARD_CAPTCHA_TEXT": "Veuillez entrer les caractères affichés sur l'image.",
+  "GIFT_CARD_BALANCE_RESULT_TEXT": "Le solde de la carte-cadeau entrée est de",
+  "GIFT_CARD_CHECK_ANOTHER": "Vérifier le solde d'une autre carte-cadeau"
+}

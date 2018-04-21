@@ -1,0 +1,10 @@
+{
+  "STATUS": "État", 
+  "ITEM_IN_YOUR_BAG": "{0} article dans votre panier", 
+  "bag_label": "Panier", 
+  "UNIT_PRICE": "Prix de l’article", 
+  "EMPTY_BAG_MESSAGE": "Il n'y a aucun article dans votre panier.", 
+  "SUBTOTAL": "Total", 
+  "ITEMS_IN_YOUR_BAG": "{0} articles dans votre panier", 
+  "QUANTITY": "Quantité"
+}

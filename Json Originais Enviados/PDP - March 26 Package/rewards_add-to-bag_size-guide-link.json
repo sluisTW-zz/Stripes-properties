@@ -1,0 +1,11 @@
+{
+  "loyalty_message_member": "<b>Fran\u00e7ais - Earn {0} Hudson''s Bay Rewards \u200bPoints on this ite\u200bm</b>",
+  "loyalty_message_nonmember": "<b>Fran\u00e7ais - Earn {0} Hudson''s Bay Rewards \u200bPoints on this ite\u200bm</b>",
+  "learn_more_label": "Fran\u00e7ais - Learn More",
+  "sf_member_label": "Fran\u00e7ais - Are you a Hudson''s Bay Rewards member?",
+  "view_points_label": "Fran\u00e7ais - Enter your rewards number at checkout to earn rewards.",
+  "not_member_label": "Fran\u00e7ais - Not a member?",
+  "learn_more_url": "https://www.hbc.com/HBCREWARDS/Default.asp?LANGID=FR",
+  "size_guide": "Fran\u00e7ais - Size Guide",
+  "add_to_bag_submit_btn_text": "ADD TO BAG"
+}

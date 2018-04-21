@@ -1,0 +1,13 @@
+{
+  "SHIP_IT": "Ship It",
+  "PICK_UP_IN_STORE": "Pick Up in Store",
+  "PICK_UP_AT": "Pick up at",
+  "SELECT_STORE": "Select Store",
+  "STORE_AVAILABILITY": "Store Availability",
+  "CHECK_STORES": "Check Stores",
+  "OPENING_HOURS": "Open {0} Today",
+  "CLOSED_TODAY": "Closed Today",
+  "BOPUS_SOLD_OUT": "Sorry, this item is no longer available at your selected store. Please check availability at another store or change the delivery method for your item to shipping.",
+  "NOT_AVAILABLE_AT_STORE_NEAR_YOU": "This item is not available at a store near you.",
+  "UPDATE": "Update"
+}

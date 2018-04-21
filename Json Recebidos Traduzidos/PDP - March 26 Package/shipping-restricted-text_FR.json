@@ -1,0 +1,7 @@
+{
+  "intl_shipping_restricted_link_label": "Cet article ne peut être expédié à cet endroit : {0}",
+  "intl_shipping_restricted_label": "Remarque :",
+  "color_size_failure_message": "Veuillez choisir une couleur ainsi qu'une taille, une pointure ou un format.",
+  "color_label": "Couleur",
+  "size_main_label": "Taille\/pointure\/format"
+}

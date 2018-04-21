@@ -1,0 +1,9 @@
+{
+  "EMAIL_USER_REGISTRATION_BODY_CONTENT": "<p>Dear {first_name} {last_name}, </p>\\", 
+  "<p>Again, thank you for creating an account and we hope you will visit again soon. Call toll-free 1.800.223.7440</p>\\": "", 
+  "<p>We look forward to providing the same legendary service and selection that has made Hudson's Bay Company a premier shopping destination.</p>\\": "", 
+  "EMAIL_USER_REGISTRATION_SUBJECT": "Thank you for creating an online account.", 
+  "<p>The e-mail address you've selected for your account is {user_id}.</p>\\": "", 
+  "<p>To reach your Account online: <a href": "{account_page}\">CLICK HERE</a></p>", 
+  "<p>We are delighted you have chosen to create an account with us. In doing so, future shopping experiences will be easier and faster. </p>\\": ""
+}

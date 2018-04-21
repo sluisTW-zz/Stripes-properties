@@ -1,0 +1,11 @@
+{
+  "loyalty_message_member": "<b>Obtenez {0} points Primes La Baie d'Hudson à l'achat de cet article<\/b>",
+  "loyalty_message_nonmember": "<b>Obtenez {0} points Primes La Baie d'Hudson à l'achat de cet article<\/b>",
+  "learn_more_label": "En savoir plus",
+  "sf_member_label": "Êtes-vous membre du programme Primes La Baie d'Hudson?",
+  "view_points_label": "Entrez votre numéro de carte à la caisse pour obtenir des points.",
+  "not_member_label": "Vous n’êtes pas membre?",
+  "learn_more_url": "https:\/\/www.hbc.com\/HBCREWARDS\/Default.asp?LANGID=FR",
+  "size_guide": "Guide des tailles",
+  "add_to_bag_submit_btn_text": "AJOUTER AU PANIER"
+}

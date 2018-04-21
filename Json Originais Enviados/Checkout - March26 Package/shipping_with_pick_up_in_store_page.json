@@ -1,0 +1,17 @@
+{
+  "BILLING_ADDRESS": "Billing Address",
+  "ITEM": "Item",
+  "ITEMS": "Items",
+  "IN_STORE_PICKUP": "IN STORE PICKUP",
+  "PICKING_UP_AT": "Picking up at",
+  "COUNTRY": "Country",
+  "INTL_STATE_PROVINCE_REGION": "Intl. State/Province/Region",
+  "CHOOSE_A_COUNTRY": "Choose a country",
+  "PLEASE_ENTER_EMAIL_PHONE_NUMBER_STORE_PICKUP": "Please enter an email address and phone number for your in store pickup. You must bring a valid government issued photo ID in addition to the email with your order number.",
+  "PHONE_NUMBER": "Phone Number",
+  "BOPUS_ALTERNATE_PERSON_MESSAGE": "I want to add an alternate person to pick up my order.",
+  "EDIT_PICKUP_PERSON": "Edit Pickup Person",
+  "OPT_IN_RECEIVE_EMAIL_MARKETING": "I agree to receive electronic messages from Hudson's Bay Company containing information and offers with respect to products and services that may be of interest to me, including notification of sales, special events and store promotions. I may withdraw this consent at any time by selecting the unsubscribe option.",
+  "INVALID_BILLING_ADDRESS_ERROR": "Please enter a valid street address for your billing address.",
+  "SELECT_COUNTRY_ERROR": "Please choose a country."
+}

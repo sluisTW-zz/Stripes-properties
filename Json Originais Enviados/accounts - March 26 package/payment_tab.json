@@ -1,0 +1,20 @@
+{
+  "add_payment_title": "Add a New Payment Method",
+  "brand_saks_storecard": "Saks Store Card",
+  "brand_saks_mastercard": "Saks MasterCard",
+  "brand_mastercard": "MasterCard",
+  "brand_visa": "Visa",
+  "brand_amex": "American Express",
+  "brand_discover": "Discover",
+  "brand_jcb": "Japan Credit Bureau",
+  "brand_cup": "China UnionPay Credit",
+  "brand_diners": "Diners Club",
+  "brand_paypal": "PayPal",
+  "brand_lat": "Lord & Taylor Credit Card",
+  "brand_hbc_plcc": "HBC Credit Card",
+  "default_payment_method": "Default Payment Method:",
+  "card_ending_label": "Card ending in",
+  "exp_date_label": "Exp. Date",
+  "edit_label": "Edit",
+  "delete_label": "Delete"
+}

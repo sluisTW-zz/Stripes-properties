@@ -1,0 +1,4 @@
+﻿{
+  "ADDRESS_UPDATE_EMAIL_SUBJECT": "Votre adresse {address_type} a été modifiée.", 
+  "ADDRESS_UPDATE_EMAIL_CONTENT": "<p>Bonjour {first_name} {last_name}, <\/p>\\ <p>Merci de votre visite à labaie.com. Tel que demandé, l'adresse {address_type} associée à votre compte a été modifiée. <\/p>\\ <p>Si cette demande ne vient pas de vous ou si vous avez des questions à ce sujet, appelez le service à la clientèle au 1-800-223-7440, entre 7 h et 2 h (HE). <\/p>\\ <p>Pour accéder à votre compte, cliquez sur le lien ci-dessous : <\/p>\\ <p>https:\/\/www.labaie.com\/compte?site_refer=EML5017TRIG_ACCT_NONE_NONE_NONE_0<\/p>\\"
+}

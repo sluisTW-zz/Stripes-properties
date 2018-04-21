@@ -1,0 +1,13 @@
+{
+  "NO_GIFT_CARDS": "Vous n'avez pas utilisé de carte-cadeau pour cet achat.", 
+  "PROMO_CODE": "Code promotionnel", 
+  "DISCOUNT": "Rabais", 
+  "SHIPPING": "Expédition", 
+  "PLACE_ORDER": "Passer la commande", 
+  "NO_VALID_PROMO_CODES": "Vous n'avez pas utilisé de code promotionnel pour cet achat.", 
+  "INVENTORY_STATUS.IN_STOCK": "En stock", 
+  "BILLING_ADDRESS": "Adresse de facturation", 
+  "SHIPPING_ADDRESS": "Adresse d'expédition", 
+  "REVIEW_SUBMIT_CHECKOUT_TAB": "Vérifier et soumettre", 
+  "NO_LOYALTY_CARD_NUMBER": "Vous n'avez pas utilisé de carte Primes La Baie d'Hudson pour cet achat."
+}

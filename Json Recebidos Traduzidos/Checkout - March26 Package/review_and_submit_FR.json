@@ -1,0 +1,15 @@
+﻿{
+  "BILLING_ADDRESS": "Adresse de facturation",
+  "PROMO_CODE": "Code promotionnel",
+  "NO_GIFT_CARDS": "Vous n'avez pas utilisé de carte-cadeau pour cet achat.",
+  "GIFT_CARD_ENDING_IN": "Carte dont le numéro se termine par",
+  "SHIPPING_ADDRESS": "Adresse d'expédition",
+  "SHIP_TO_MULTIPLE_ADDRESSES": "Envoi à plusieurs adresses",
+  "PLACE_ORDER": "Passer la commande",
+  "SHIPPING_HANDLING": "Expédition et manutention",
+  "SHIPPING_METHOD.STANDARD": "Livraison standard",
+  "SHIPPING_METHOD.SECOND_DAY_AIR": "Livraison express",
+  "SHIPPING_METHOD.NEXT_DAY_AIR": "Expédition le jour ouvrable suivant",
+  "SHIPPING_METHOD.SATURDAY_DELIVERY": "Livraison le samedi",
+  "GIFT_WRAP": "Emballage-cadeau"
+}

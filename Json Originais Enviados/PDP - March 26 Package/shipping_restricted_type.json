@@ -1,0 +1,14 @@
+{
+  "details": "Details",
+  "shipping_and_returns": "Shipping & Returns",
+  "can_not_be_shipped_type": "Cannot be shipped via {0} delivery",
+  "restricted_ship_type_standard": "Standard",
+  "restricted_ship_type_saturday": "Saturday",
+  "restricted_ship_type_rush": "Rush",
+  "restricted_ship_type_next_business_day": "Next Business Day",
+  "gift_wrap_is_not_available": "Please Note: This item cannot be gift wrapped.",
+  "usps_ship_ok_msg": "Cannot be shipped to a P.O. Box, APO/FPO or U.S. Territory",
+  "drop_ship_time_line": "Shipping timeline for this item",
+  "most_items_we_ship_returnable_statement": "There is always FREE SHIPPING on orders of $99 or more ($45 or more with Hudson''s Bay Credit) or beauty orders of $49 or more ($29 or more with Hudson''s Bay Credit). If for any reason you are not completely satisfied with your purchase, you may return the item(s) free of charge to any Hudson''s Bay store for an exchange or refund.",
+  "additional_information": "Additional Information"
+}

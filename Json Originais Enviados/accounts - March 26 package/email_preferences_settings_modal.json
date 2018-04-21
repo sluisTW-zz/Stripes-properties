@@ -1,0 +1,9 @@
+{
+  "modal_title": "Edit Email Preferences",
+  "edit_message_block": "I agree to receive electronic messages from Hudson's Bay Company containing information and offers with respect to products and services that may be of interest to me, including notification of sales, special events and store promotions. I may withdraw this consent at any time by selecting the unsubscribe option.",
+  "canadian_customer_privacy_policy": "View our <a target=\"_blank\" href=\"{1}\">Privacy Policy</a>. You may contact the Privacy Office at <a href=\"mailto:{2}\">{2}</a> or write to us at Saks Digital, Inc., P.O. Box 10327, Jackson, MS 39289, <a target=\"_blank\" href=\"/\">{3}</a>. You may also contact us at Saks Fifth Avenue \u2013 Canadian Privacy Office, P.O. Box 4135, Station A, Toronto, Ontario, Canada M5W 3B7, 1-866-225-8251, <a href=\"mailto:privacy@hbc.com\">privacy@hbc.com</a>, <a target=\"_blank\" href=\"http://www.thebay.com\">www.thebay.com</a>.",
+  "preferred_language": "Preferred Language",
+  "preferred_language_tooltip_text": "Select the preferred language for email marketing and correspondence.",
+  "email_preferences_cancel_link": "Cancel",
+  "email_preferences_submit_button": "Submit"
+}

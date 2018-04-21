@@ -1,0 +1,23 @@
+{
+  "edit_shipping_address_title": "Edit Shipping Address",
+  "add_shipping_address_title": "Add a New Shipping Address",
+  "first_name_label": "First Name",
+  "last_name_label": "Last Name",
+  "company_label": "Company",
+  "address_1_label": "Address 1",
+  "address_2_label": "Address 2",
+  "city_label": "City",
+  "state_province_label": "State/Province",
+  "region_province_label": "Region/Province",
+  "postal_code_label": "ZIP/Postal Code",
+  "phone_number_label": "Phone Number",
+  "default_shipping": "Default Shipping Address",
+  "default_billing": "Default Billing Address",
+  "required_field": "This field is required.",
+  "account.address.firstname.invalid": "Please enter a valid first name.",
+  "account.address.lastname.invalid": "Please enter a valid last name.",
+  "account.address.phonenumber.invalid": "Please enter a valid phone number.",
+  "account.address.zip_postalcode.invalid": "Invalid format.",
+  "cancel_link": "Cancel",
+  "submit_button": "Submit"
+}

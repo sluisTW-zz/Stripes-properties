@@ -1,0 +1,4 @@
+﻿{
+  "ACCOUNT_LOCKED_OUT_EMAIL_SUBJECT": "Votre compte a été verrouillé pour des raisons de sécurité",
+  "ACCOUNT_LOCKED_OUT_EMAIL_CONTENT": "<p>Bonjour {first_name} {last_name}, <\/p>\\ <p>Merci de votre visite à labaie.com. En raison de trop nombreuses tentatives d’accès infructueuses, nous avons dû verrouiller votre compte. <\/p>\\ <p>Pour déverrouiller l'accès à votre compte, appelez-nous au 1-800-223-7440, entre 7 h et 2 h (HE).<\/p>"
+}

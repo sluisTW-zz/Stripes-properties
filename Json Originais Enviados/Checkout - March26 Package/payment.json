@@ -1,0 +1,14 @@
+{
+  "PAYMENT": "Payment",
+  "GIFT_WRAP": "Gift Wrap",
+  "GIFT_FOR": "Gift for",
+  "GIFT_CARD": "Gift Card",
+  "GIFT_CARDS": "Gift Cards",
+  "GIFT_CARD_AMOUNT": "Gift Card(s) Payment",
+  "GIFT_CARD_NUMBER": "Card Number",
+  "GIFT_CARD_PIN": "Pin",
+  "CREATE_AN_ACCOUNT_TOOLTIP_TITLE": "Account Benefits",
+  "OPTIONAL": "Optional",
+  "ESTIMATED_ORDER_LOYALTY_POINTS": "Hudson\u2019s Bay Rewards Points Value",
+  "ORDER_LOYALTY_POINTS": "Hudson\u2019s Bay Rewards Points Value"
+}
