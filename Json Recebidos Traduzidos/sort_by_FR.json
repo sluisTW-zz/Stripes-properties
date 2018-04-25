@@ -1,0 +1,15 @@
+﻿{
+  "SORT_BY": "Trier par",
+  "FEATURED_LABEL": "Articles vedettes",
+  "NEW_ARRIVALS_LABEL": "Articles les plus récents",
+  "NEWEST_MARKDOWN_LABEL": "Prix nouvellement réduits",
+  "BEST_SELLERS_LABEL": "Articles les plus populaires",
+  "TOP_RATED_LABEL": "Articles les plus appréciés",
+  "LOW_TO_HIGH_LABEL": "Prix croissant",
+  "HIGH_TO_LOW_LABEL": "Prix décroissant",
+  "DESIGNERS_A_TO_Z_LABEL": "Marques griffées de A à Z",
+  "BRANDS_A_TO_Z_LABEL": "Marques de A à Z",
+  "CATEGORY_LABEL": "Catégorie",
+  "SALE_FIRST_LABEL": "Articles en solde",
+  "BEST_MATCH_LABEL": "Meilleurs résultats"
+}
