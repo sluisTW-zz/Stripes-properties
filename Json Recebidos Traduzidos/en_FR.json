@@ -1,0 +1,6 @@
+﻿{
+    "displayMessage.authenticated": "Vous pouvez maintenant voir vos favoris dans votre compte.",
+    "displayMessage.unauthenticated": "Vous voulez sauvegarder vos favoris?<br \/><a href=\"\/account\/favorites\">Ouvrez une session<\/a> ou <a href=\"\/account\/favorites\">créez un compte<\/a>",
+    "feedbackMessage": "Ajouté aux favoris",
+    "redirectLabel": "Voir les favoris"
+}

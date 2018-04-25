@@ -1,0 +1,17 @@
+{ 
+    "GIFT_CARD_SWAP_LINK_TITLE" : "Échange de cartes-cadeaux",
+    "GIFT_CARD_CHECK_BALANCE_TITLE": "Vous avez déjà une carte-cadeau La Baie d'Hudson?",
+    "GIFT_CARD_CHECK_BALANCE_LINK_TEXT": "Vérifier le solde",
+    "GIFT_CARD_CHECK_BALANCE_FORM_TITLE": "Vérifier le solde",
+    "GIFT_CARD_CHECK_BALANCE_FORM_CARD_NUMBER": "Numéro de carte",
+    "GIFT_CARD_CHECK_BALANCE_FORM_WHERE_ARE_CODES": "Où se trouvent ces numéros?",
+    "GIFT_CARD_CHECK_BALANCE_FORM_CAPTCHA_INFO": "Entrez les caractères affichés ci-dessus.",
+    "GIFT_CARD_CHECK_BALANCE_FORM_CAPTCHA_RELOAD": "Trop difficile à lire? Changer d'image",
+    "GIFT_CARD_CHECK_BALANCE_FORM_PIN": "NIP",
+    "GIFT_CARD_CHECK_BALANCE_FORM_RESULT_CARD_NUMBER": "Numéro de la carte-cadeau :",
+    "GIFT_CARD_CHECK_BALANCE_FORM_RESULT_CARD_BALANCE": "Solde de la carte-cadeau :",
+    "GIFT_CARD_CHECK_BALANCE_FORM_RESULT_CHECK_ANOTHER": "Vérifier le solde d'une autre carte",
+    "GIFT_CARD_CHECK_BALANCE_FORM_VALIDATION_NUMBER": "Veuillez entrer un numéro de carte-cadeau valide.",
+    "GIFT_CARD_CHECK_BALANCE_FORM_VALIDATION_PIN": "Veuillez entrer un NIP valide.",
+    "GIFT_CARD_CHECK_BALANCE_FORM_VALIDATION_CAPTCHA": "Veuillez entrer les caractères affichés sur l'image."
+}
